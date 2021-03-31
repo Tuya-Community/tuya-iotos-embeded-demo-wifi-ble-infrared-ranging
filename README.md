@@ -8,7 +8,7 @@ This Demo implements an intelligent infrared ranging through Tuya Smart Cloud Pl
 
 Implemented features.
 
-+ The size of the distance detected by the real-time IR sensor
++ Real-time reporting of the size of the distance detected by the infrared sensor
 
 
 
